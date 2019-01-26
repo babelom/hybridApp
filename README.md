@@ -1,5 +1,5 @@
 # hybridApp
-A very basic React Native Hybrid App (WEB/IOS/Android) that keep the same behavior through diverse plateform (Using different navigation)
+A very basic React Native Hybrid App (WEB/IOS/Android) that keep the same behavior through diverse plateform (Using different navigation between Web and Mobile)
 
 Get Started
 
